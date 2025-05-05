@@ -17,7 +17,7 @@ This is a self-watering plant system created using Java and C++. It utilizes a c
 ![Alt text](setup_diagram.png?raw=true "Setup")
 
 # Usage
-1.  Clone the repository using  **`git clone https://github.com/kajmoha/automatedplantwatweringsystem.git`**
+1.  Clone the repository using  **`git clone https://github.com/kajmoha/automated-plant-watering-system.git`**
 2.  Connect the hardware components as specified in the code and setup diagram.
 3. Upload the code to the Seeeduino Lotus board (Grove board).
 4. Run Main.java to track the condition of the soil
